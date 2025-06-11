@@ -1,1 +1,1 @@
-# This is a repo for my new GCP DevOps Project and testing 
+# This is a repo for my new GCP DevOps Project
